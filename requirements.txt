@@ -1,0 +1,4 @@
+librosa == 0.8.0
+numpy == 1.19.2
+pympi-ling == 1.70.2
+soundfile == 0.10.2
